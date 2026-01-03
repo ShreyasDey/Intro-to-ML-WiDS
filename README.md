@@ -1,5 +1,3 @@
-I have learned Python fundamentals and worked with key libraries such as NumPy, Pandas, and Matplotlib. Under the guidance of my mentor, I implemented and practiced machine learning algorithms
-including Linear Regression, Logistic Regression, and Neural Networks using scikit-learn and TensorFlow.
+I have learned the basics of Python programming along with major libraries such as NumPy, Pandas, and Matplotlib. I have practiced machine learning algorithms like Linear Regression, Logistic Regression, and Neural Networks with the aid of scikit-learn and TensorFlow under the direction of my mentor.
 
-As a practical project, I built a neural network model for handwritten digit classification using the MNIST dataset, achieving an accuracy of approximately 98% and also created various linear regression and logistic
-regression models.
+As the implementation project, I developed the neural network model for the classification of the handwritten digits in the MNIST dataset with an accuracy of 98% precision.
